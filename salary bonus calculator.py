@@ -2,6 +2,7 @@ print('-----------------------------------------------------------------')
 print('* INSTRUCTIONS')
 print('----------------------------------------------------------------')
 print("* TO GET BONUS YOUR SERVICE YEAR MUST GREATER THAN 5 YEAR")
+print('----------------------------------------------------------------')
 user_salary=int(input('* ENTER YOUR SLARY: '))
 user_service_year=int(input('* ENTER YOUR SERVICE YEAR: '))
 bonus_amount=(5/100)*user_salary
